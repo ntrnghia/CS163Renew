@@ -1,0 +1,7 @@
+.vscode
+Data
+Words
+*.ilk
+*.obj
+*.pdb
+vc140.pdb
