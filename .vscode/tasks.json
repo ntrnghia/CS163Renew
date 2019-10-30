@@ -12,7 +12,8 @@
                 "/Zi",
                 "/EHsc",
                 "/Fe:",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                // "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "${fileDirname}\\indexing.exe",
                 "${fileDirname}\\indexing.cpp",
                 "${fileDirname}\\function.cpp",
                 // "${file}"
