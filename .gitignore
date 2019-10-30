@@ -1,8 +1,27 @@
+#Visual Code Configuration
 .vscode
+
+#Data files and indexing files
 Data
 Words
+
+#Build files
 *.exe
 *.ilk
 *.obj
 *.pdb
+
+#Mscv build files
 vc140.pdb
+
+#Example data files
+!Data/Group01_01.txt
+!Data/Group01_02.txt
+!Data/Group01_03.txt
+!Data/Group01_04.txt
+!Data/Group01_05.txt
+!Data/Group01_06.txt
+!Data/Group01_07.txt
+!Data/Group01_08.txt
+!Data/Group01_09.txt
+!Data/Group01_10.txt
