@@ -1,6 +1,7 @@
-.vscode
-Data
-Words
+/.vscode
+/Data
+/Words
+*.exe
 *.ilk
 *.obj
 *.pdb
